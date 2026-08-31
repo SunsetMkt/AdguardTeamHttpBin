@@ -1,5 +1,13 @@
 # HTTPBin
 
+> **This repository has moved to GitHub.**
+>
+> The project is now maintained at
+> [AdGuardSoftwareLimited/ext-httpbin][new-repo].
+> Please use GitHub for the latest code, issues, and pull requests.
+
+[new-repo]: https://github.com/AdGuardSoftwareLimited/ext-httpbin
+
 This is a Cloudflare Worker port of httpbin.org HTTP request & response testing
 service.
 
